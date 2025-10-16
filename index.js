@@ -125,7 +125,7 @@ const port = process.env.PORT || 9090;
 ├─ 📢 *Join Channel:*  
 │    https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R  
 ├─ 🌟 *Star the Repo:*  
-│    https://github.com/Jester36/SENU-MD  
+│    https://github.com/chhaseeb47/MAFIA-XMD  
 ╰─🚀 *POWERED BY MAFIA TECHX*`;
 
     conn.sendMessage(conn.user.id,{ image: { url: `https://i.postimg.cc/D0LnpdHQ/20251016-065355.jpg` }, caption: up })
