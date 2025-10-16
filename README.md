@@ -40,7 +40,7 @@
 1. Link your WhatsApp by [`PAIR CODE`](https://adeelxmd-pair.onrender.com)
 2. Link your WhatsApp by [`PAIR CODE`](https://mafia-md-pair-web.onrender.com/)
 3. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-4. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=gh repo clone chhaseeb47/MAFIA-XMD)
+4. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
